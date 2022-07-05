@@ -1,0 +1,1 @@
+g++     CMakeFiles/Minesweeper.dir/src/main.cpp.o CMakeFiles/Minesweeper.dir/src/app.cpp.o  -o Minesweeper  lib/piksel/libpiksel.a lib/piksel/libglad.a lib/piksel/lib/glfw/src/libglfw3.a /usr/lib/x86_64-linux-gnu/librt.so -lm -ldl /usr/lib/x86_64-linux-gnu/libX11.so -lpthread lib/piksel/libmsdfgen.a lib/piksel/libcpp-base64.a lib/piksel/libjson11.a 
